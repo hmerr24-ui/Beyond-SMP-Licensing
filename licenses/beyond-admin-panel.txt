@@ -1,0 +1,52 @@
+Beyond Admin Panel Proprietary Licence v1.0
+
+Copyright © 2026 the respective copyright holder(s) of original Beyond Admin Panel material.
+Published by Beyond SMP · beyond-smp.com
+
+1. Grant of permission
+
+Subject to this licence, you may download, install, use, configure and inspect Beyond Admin Panel on a Minecraft server that you own or are expressly authorised to manage. You may view the source code and make modifications for your own private use.
+
+2. Restrictions requiring prior permission
+
+You must obtain prior written permission from the relevant copyright holder before you:
+
+- Redistribute, publish or share copies of the original software.
+- Redistribute, publish or share modified versions or derivative builds.
+- Sell, sublicense or include the software in a paid product or service.
+- Reuse or incorporate portions of its original source code into another project.
+- Publish, maintain or distribute a fork or alternative version.
+
+Any permission granted may be subject to additional conditions. Silence or failure to respond does not constitute permission.
+
+3. Server authorisation
+
+You may only install or operate the software on a server that you own or are expressly authorised to administer. This licence does not grant access to, or permission to make changes on, any server or system belonging to another person.
+
+4. Name, logo and branding
+
+This licence does not grant any right to use, reproduce, modify or distribute the Beyond Admin Panel logo or associated original branding artwork. Such artwork remains protected by the rights of its respective holder(s), and requires separate prior written permission for use.
+
+No claim of exclusive ownership over the words “Beyond SMP” is made by this clause. Use of the name does not grant permission to use the logo, artwork or other protected branding.
+
+5. Ownership and third-party components
+
+The software and its original components remain the property of their respective copyright holder(s). This licence grants limited permissions; it does not transfer ownership.
+
+Any third-party libraries, tools, assets or other components remain the property of their respective owners and are governed by their own licences. This licence does not replace or override those terms.
+
+6. No additional rights
+
+All rights not expressly granted by this licence are reserved by the relevant copyright holder(s). Nothing in this licence grants permission to use third-party material beyond the permissions provided by its own licence.
+
+7. Disclaimer
+
+To the maximum extent permitted by applicable law, the software is provided “AS IS”, without warranties or guarantees of any kind. Nothing in this licence excludes or limits liability where doing so would be unlawful.
+
+8. Changes and termination
+
+The copyright holder(s) may publish a revised version of this licence for future releases. A revision does not automatically change the terms that applied to copies already received. If you breach this licence, your permissions may terminate to the extent permitted by applicable law.
+
+9. Contact and permission requests
+
+Requests for redistribution, commercial use, code reuse, forks or branding permission must be made in writing through the official Beyond SMP channels.
